@@ -26,7 +26,7 @@ $.domReady(function() {
 
   document.title = page;
   document.getElementById('viewsource').setAttribute('href', 
-    'https://raw.github.com/haldean/docstore/master/' + url)
+    'http://docs.timbendt.com/' + url)
   
   MathJax.Hub.Config({
   tex2jax: {

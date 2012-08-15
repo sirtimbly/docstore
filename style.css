@@ -6,23 +6,26 @@ body {
   font-size: 14pt;
   margin: 10% 25%;
   color: #332;
-  background: #FFF;
+  background: #f6f7ea;
   line-height: 20pt;
 }
 
 h1 {
-  color: #CB4B16;
+  color: #43474C;
   font-size: 20pt;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
   color: #b58900;
   font-size: 18pt;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h3 {
   color: #268bd2;
   font-size: 16pt;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
