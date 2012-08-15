@@ -1,4 +1,5 @@
-var homepage = 'http://haldean.org'
+//this server is intended for directly linking to files in the format of: host/?filename
+var homepage = 'http://timbendt.com' //so this is where we redirect when the user came without a file path
 
 $.domReady(function() {
   var page = document.location.search.substring(1)
